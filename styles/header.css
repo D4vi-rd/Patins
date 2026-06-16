@@ -2,7 +2,7 @@ header {
     max-width: 80rem;
     width: 100%;
     padding: 1.2rem 2rem;
-
+    margin-inline: auto;
     
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ header {
     }
 
     img[src*="logo"]:hover {
-        transform: rotate(90deg);
+        transform: rotate(180deg);
     }
 
     img[src*="shopping"]:hover {
