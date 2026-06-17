@@ -54,7 +54,7 @@ section.hero {
             }
 
 
-            .play span {
+            &.play span {
                 padding: 1.5rem;
                 border-radius: 50%;
                 background-color: white;
