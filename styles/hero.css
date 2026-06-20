@@ -99,7 +99,7 @@ section.hero {
       width: 100%;
     }
 
-    & img[src*="Ellipse"] {
+    & img[src*="Eclipse"] {
       width: 94%;
       top: 3%;
       left: 3%;
