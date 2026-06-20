@@ -115,7 +115,7 @@ section.hero {
       animation: slideIn 3s ease forwards;
     }
 
-    & img[src*="stars-1"] {
+    & img[src*="Stars-1"] {
       max-width: 5.5rem;
       top: 30%;
       z-index: 0;
@@ -125,7 +125,7 @@ section.hero {
       animation: slideIn 2s 800ms ease both, appear 100ms 800ms both;
     }
 
-    & img[src*="stars-2"] {
+    & img[src*="Stars-2"] {
       max-width: 2.5rem;
       right: 0;
       bottom: 35%;
